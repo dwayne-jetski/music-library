@@ -9,7 +9,6 @@ $.ajax({
     }
 });
 
-
 function buildTable(data){
     var table = $('#my-table');
     var row
