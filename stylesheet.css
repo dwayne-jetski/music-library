@@ -1,9 +1,19 @@
 .table-border{
     border: 1px solid black;
-    /* border-collapse: collapse; */
+    background-color: white;
+    border-collapse: collapse;
 }
 
 .table-header-size{
     width: 90px;
     height: 50px;
+    background-color: #F9C846;
+}
+
+.even-row-styles{
+    background-color: white;
+}
+
+.odd-row-styles{
+    background-color:#FFE3E3;
 }
